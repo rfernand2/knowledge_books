@@ -58,6 +58,15 @@ People who created the foundations of abstract reasoning, geometry, algebra, pro
 | Mandelbrot | France/US | Geometry | Fractal geometry |
 | Wiles | England | Number theory | Proved Fermat's Last Theorem |
 | Perelman | Russia | Topology | Poincaré conjecture |
+| Grothendieck | Germany/France | Algebra | Algebraic geometry |
+| Atiyah | England | Topology | Index theorem |
+| Witten | US | Mathematical physics | Topological quantum field theory |
+| Connes | France | Operator algebras | Noncommutative geometry |
+| Thurston | US | Topology | Geometrization conjecture |
+| Smale | US | Topology | Topology and dynamical systems |
+| Milnor | US | Topology | Differential topology |
+| Langlands | Canada | Number theory | Langlands program |
+| Tao | Australia/US | Analysis | Harmonic analysis |
 
 ---
 
@@ -130,6 +139,15 @@ Architects of classical mechanics, relativity, quantum theory, cosmology, and ou
 | Jocelyn Bell Burnell | UK | Astronomy | Pulsars discovery |
 | Carl Sagan | US | Astronomy | Science communication |
 | Neil deGrasse Tyson | US | Astrophysics | Science communication |
+| Kip Thorne | US | Relativity | Gravitational waves |
+| Roger Penrose | England | Mathematical physics | Black hole singularities |
+| Freeman Dyson | UK/US | Physics | Quantum electrodynamics |
+| Yang Chen-Ning | China/US | Particle physics | Yang-Mills theory |
+| Abdus Salam | Pakistan | Particle physics | Electroweak unification |
+| Hideki Yukawa | Japan | Nuclear physics | Meson theory |
+| Sin-Itiro Tomonaga | Japan | Quantum physics | QED |
+| Subrahmanyan Chandrasekhar | India/US | Astrophysics | Stellar structure |
+| Arthur Eddington | England | Astrophysics | Stellar structure |
 
 ---
 
@@ -174,6 +192,13 @@ People who discovered elements, reactions, molecular structure, and atomic theor
 | Smalley | US | Chemistry | Fullerenes |
 | Zewail | Egypt/US | Chemistry | Femtochemistry |
 | Yonath | Israel | Biochemistry | Ribosome structure |
+| Dorothy Hodgkin | England | Biochemistry | X-ray crystallography |
+| Rosalind Franklin | England | Chemistry | DNA structure |
+| Marie Curie | Poland/France | Radioactivity | Radium, polonium |
+| Irène Joliot-Curie | France | Nuclear chemistry | Artificial radioactivity |
+| Lise Meitner | Austria | Nuclear physics | Nuclear fission |
+| Fritz Haber | Germany | Chemistry | Haber process |
+| Carl Bosch | Germany | Chemistry | Haber-Bosch process |
 | Karplus | Austria/US | Chemistry | Computational chemistry |
 
 ---
@@ -236,6 +261,13 @@ Founders of modern biology, evolution, genetics, and life sciences.
 | Fossey | US | Primatology | Gorilla behavior |
 | Leakey | Kenya | Paleontology | Human evolution |
 | Johanson | US | Paleontology | Lucy discovery |
+| Richard Dawkins | England | Evolution | Selfish gene |
+| Konrad Lorenz | Austria | Ethology | Animal behavior |
+| Niko Tinbergen | Netherlands | Ethology | Animal behavior |
+| Karl von Frisch | Austria | Ethology | Bee communication |
+| Rachel Carson | US | Marine biology | Environmental science |
+| Theodosius Dobzhansky | Russia/US | Genetics | Modern synthesis |
+| James Lovelock | England | Biology | Gaia hypothesis |
 
 ---
 
@@ -283,6 +315,13 @@ Pioneers of medical practice, public health, and clinical sciences.
 | Fauci | US | Immunology | HIV/AIDS research |
 | Gallo | US | Virology | HIV discovery |
 | Montagnier | France | Virology | HIV discovery |
+| Jonas Salk | US | Virology | Polio vaccine |
+| Albert Sabin | US | Virology | Oral polio vaccine |
+| Paul Ehrlich | Germany | Immunology | Chemotherapy |
+| Robert Koch | Germany | Bacteriology | Tuberculosis |
+| Edward Jenner | England | Immunology | Smallpox vaccine |
+| William Harvey | England | Physiology | Blood circulation |
+| Andreas Vesalius | Belgium | Anatomy | Human anatomy |
 
 ---
 
@@ -334,6 +373,10 @@ Makers of machines, structures, power systems, and technological innovations.
 | Noyce | US | Electronics | Integrated circuit |
 | Moore | US | Electronics | Moore's Law |
 | Grove | Hungary/US | Electronics | Intel leadership |
+| Jack Kilby | US | Electronics | Integrated circuit |
+| Robert Noyce | US | Electronics | Integrated circuit co-inventor |
+| Gordon Moore | US | Electronics | Moore's Law |
+| Steve Wozniak | US | Computing | Apple computer design |
 
 ---
 
@@ -388,6 +431,15 @@ Founders of modern computing, programming, AI, and digital systems.
 | Hassabis | UK | AI | AlphaGo, AlphaFold |
 | Altman | US | AI | OpenAI |
 | Sutskever | Russia/Canada | AI | Deep learning |
+| Andrew Ng | UK/US | AI | Machine learning education |
+| Demis Hassabis | UK | AI | DeepMind, AlphaGo |
+| Ian Goodfellow | Canada/US | AI | Generative adversarial networks |
+| Fei-Fei Li | China/US | AI | Computer vision |
+| Donald Knuth | US | Algorithms | The Art of Computer Programming |
+| Edsger Dijkstra | Netherlands | Algorithms | Dijkstra's algorithm |
+| Tony Hoare | England | Programming | Quicksort |
+| Barbara Liskov | US | Programming | Data abstraction |
+| Frances Allen | US | Compilers | Compiler optimization |
 
 ---
 
@@ -431,6 +483,10 @@ Creators of economic theory, markets, and financial systems.
 | Thaler | US | Economics | Behavioral economics |
 | Piketty | France | Economics | Inequality |
 | Acemoglu | Turkey/US | Economics | Institutions |
+| Esther Duflo | France/US | Economics | Development economics |
+| Angus Deaton | Scotland/US | Economics | Poverty analysis |
+| Robert Shiller | US | Economics | Behavioral finance |
+| Eugene Fama | US | Economics | Efficient markets |
 
 ---
 
@@ -516,6 +572,11 @@ Pioneers of the study of mind, behavior, and mental processes.
 | Csikszentmihalyi | Hungary/US | Psychology | Flow |
 | Seligman | US | Psychology | Positive psychology |
 | Loftus | US | Psychology | Memory research |
+| Albert Ellis | US | Psychology | Cognitive therapy |
+| Aaron Beck | US | Psychology | Cognitive therapy |
+| Erik Erikson | Germany/US | Psychology | Developmental stages |
+| Lawrence Kohlberg | US | Psychology | Moral development |
+| Carol Gilligan | US | Psychology | Ethics of care |
 
 ---
 
@@ -549,6 +610,10 @@ Founders of the study of societies, cultures, and human behavior.
 | Geertz | US | Anthropology | Interpretive anthropology |
 | Turner | Scotland/US | Anthropology | Ritual studies |
 | Douglas | England | Anthropology | Symbolic anthropology |
+| Talcott Parsons | US | Sociology | Structural functionalism |
+| Herbert Spencer | England | Sociology | Social evolution |
+| Georg Simmel | Germany | Sociology | Formal sociology |
+| Harriet Martineau | England | Sociology | Sociological methods |
 
 ---
 
@@ -789,6 +854,15 @@ Writers who transformed literary art and narrative.
 | Coetzee | South Africa | Fiction | Postcolonial fiction |
 | Pamuk | Turkey | Fiction | Turkish literature |
 | Murakami | Japan | Fiction | Contemporary fiction |
+| Salman Rushdie | India/UK | Fiction | Midnight's Children |
+| Octavio Paz | Mexico | Poetry | Latin American poetry |
+| Jorge Luis Borges | Argentina | Fiction | Ficciones |
+| Pablo Neruda | Chile | Poetry | Love poetry |
+| Gabriel García Márquez | Colombia | Fiction | One Hundred Years of Solitude |
+| Isabel Allende | Chile | Fiction | House of the Spirits |
+| Naguib Mahfouz | Egypt | Fiction | Cairo Trilogy |
+| Wole Soyinka | Nigeria | Drama | African literature |
+| Derek Walcott | St. Lucia | Poetry | Caribbean poetry |
 
 ---
 
@@ -858,6 +932,10 @@ Painters, sculptors, and visual artists who transformed art.
 | Basquiat | US | Painting | Neo-expressionism |
 | Hirst | England | Installation | Contemporary art |
 | Ai Weiwei | China | Installation | Political art |
+| Yayoi Kusama | Japan | Installation | Infinity rooms |
+| Anish Kapoor | India/UK | Sculpture | Contemporary sculpture |
+| Gerhard Richter | Germany | Painting | Photorealism |
+| Cindy Sherman | US | Photography | Conceptual photography |
 
 ---
 
@@ -910,6 +988,12 @@ Composers and musicians who shaped musical art.
 | The Beatles | UK | Rock | Pop/rock revolution |
 | Dylan | US | Folk/Rock | Singer-songwriter |
 | Hendrix | US | Rock | Guitar innovation |
+| Bob Marley | Jamaica | Reggae | Reggae music |
+| Chuck Berry | US | Rock | Rock and roll |
+| Elvis Presley | US | Rock | Rock and roll |
+| Michael Jackson | US | Pop | Pop music |
+| Prince | US | Pop/Rock | Musical innovation |
+| Aretha Franklin | US | Soul | Soul music |
 
 ---
 
@@ -1084,6 +1168,8 @@ Shapers of mass communication and journalism.
 | Turner | US | Media | CNN, 24-hour news |
 | Murdoch | Australia/US | Media | News Corporation |
 | Amanpour | UK/US | Journalism | War reporting |
+| Glenn Greenwald | US | Journalism | Investigative journalism |
+| Anderson Cooper | US | Journalism | TV journalism |
 
 ---
 
@@ -1128,6 +1214,9 @@ Pioneers of environmental awareness and ecology.
 | Lovelock | England | Ecology | Gaia hypothesis |
 | Wilson | US | Ecology | Biodiversity |
 | Wangari Maathai | Kenya | Environmentalism | Green Belt Movement |
+| David Attenborough | England | Natural history | Wildlife documentaries |
+| E.O. Wilson | US | Biology | Biodiversity conservation |
+| Greta Thunberg | Sweden | Climate activism | Youth climate movement |
 
 ---
 
