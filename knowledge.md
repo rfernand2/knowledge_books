@@ -1,0 +1,2041 @@
+# Major Fields of Human Knowledge
+
+A hierarchical categorization of the major fields of human knowledge, organized by discipline and subdiscipline.
+
+## 1. Natural Sciences
+
+### 1.1 Physics
+- Classical Mechanics
+  - Newtonian Mechanics
+  - Lagrangian Mechanics
+  - Hamiltonian Mechanics
+  - Statics
+  - Dynamics
+  - Kinematics
+  - Fluid Mechanics
+  - Continuum Mechanics
+  - Rheology
+- Thermodynamics
+  - Classical Thermodynamics
+  - Statistical Mechanics
+  - Heat Transfer
+  - Cryogenics
+  - High Temperature Physics
+- Electromagnetism
+  - Electrostatics
+  - Magnetostatics
+  - Electrodynamics
+  - Classical Electrodynamics
+  - Plasma Physics
+  - Optics
+  - Photonics
+  - Laser Physics
+- Quantum Mechanics
+  - Quantum Field Theory
+  - Quantum Electrodynamics
+  - Quantum Chromodynamics
+  - Quantum Optics
+  - Quantum Information Theory
+  - Quantum Computing
+- Relativity
+  - Special Relativity
+  - General Relativity
+  - Cosmology
+  - Gravitational Waves
+- Particle Physics
+  - High Energy Physics
+  - Nuclear Physics
+  - Hadron Physics
+  - Lepton Physics
+  - Standard Model
+  - Beyond Standard Model Physics
+- Condensed Matter Physics
+  - Solid State Physics
+  - Soft Matter Physics
+  - Crystallography
+  - Semiconductor Physics
+  - Superconductivity
+  - Magnetism
+  - Materials Physics
+- Atomic, Molecular, and Optical Physics
+  - Atomic Physics
+  - Molecular Physics
+  - Chemical Physics
+  - Spectroscopy
+- Astrophysics
+  - Stellar Physics
+  - Galactic Astronomy
+  - Extragalactic Astronomy
+  - Planetary Science
+  - Exoplanetary Science
+  - Astrobiology
+  - Solar Physics
+- Biophysics
+  - Molecular Biophysics
+  - Cellular Biophysics
+  - Neurophysics
+  - Biomechanics
+- Geophysics
+  - Seismology
+  - Geomagnetism
+  - Geodesy
+  - Tectonophysics
+  - Volcanology
+- Acoustics
+  - Ultrasonics
+  - Architectural Acoustics
+  - Musical Acoustics
+- Applied Physics
+  - Engineering Physics
+  - Medical Physics
+  - Computational Physics
+  - Nanotechnology
+
+### 1.2 Chemistry
+- Analytical Chemistry
+  - Chromatography
+  - Spectroscopy
+  - Mass Spectrometry
+  - Electroanalytical Chemistry
+  - Thermal Analysis
+  - Quality Control
+- Organic Chemistry
+  - Aliphatic Chemistry
+  - Aromatic Chemistry
+  - Heterocyclic Chemistry
+  - Organometallic Chemistry
+  - Polymer Chemistry
+  - Stereochemistry
+  - Natural Products Chemistry
+  - Medicinal Chemistry
+  - Pharmaceutical Chemistry
+  - Agrochemistry
+- Inorganic Chemistry
+  - Coordination Chemistry
+  - Organometallic Chemistry
+  - Bioinorganic Chemistry
+  - Solid State Chemistry
+  - Materials Chemistry
+  - Cluster Chemistry
+  - Main Group Chemistry
+  - Transition Metal Chemistry
+- Physical Chemistry
+  - Thermochemistry
+  - Chemical Kinetics
+  - Quantum Chemistry
+  - Electrochemistry
+  - Photochemistry
+  - Surface Chemistry
+  - Colloid Chemistry
+  - Chemical Thermodynamics
+  - Statistical Mechanics
+- Biochemistry
+  - Enzymology
+  - Metabolic Biochemistry
+  - Molecular Biology
+  - Structural Biology
+  - Protein Chemistry
+  - Nucleic Acid Chemistry
+  - Lipid Chemistry
+  - Carbohydrate Chemistry
+  - Neurochemistry
+  - Clinical Biochemistry
+  - Immunochemistry
+- Theoretical Chemistry
+  - Computational Chemistry
+  - Molecular Modeling
+  - Cheminformatics
+- Environmental Chemistry
+  - Atmospheric Chemistry
+  - Aquatic Chemistry
+  - Soil Chemistry
+  - Green Chemistry
+  - Pollution Chemistry
+- Industrial Chemistry
+  - Chemical Engineering Chemistry
+  - Petrochemistry
+  - Food Chemistry
+  - Cosmetic Chemistry
+  - Textile Chemistry
+- Nuclear Chemistry
+  - Radiochemistry
+  - Radiation Chemistry
+  - Hot Atom Chemistry
+- Geochemistry
+  - Biogeochemistry
+  - Isotope Geochemistry
+  - Organic Geochemistry
+  - Aqueous Geochemistry
+- Astrochemistry
+  - Cosmochemistry
+  - Planetary Chemistry
+- Supramolecular Chemistry
+  - Host-Guest Chemistry
+  - Self-Assembly
+  - Molecular Recognition
+
+### 1.3 Biology
+- Molecular Biology
+  - DNA Biology
+  - RNA Biology
+  - Protein Biology
+  - Gene Expression
+  - Gene Regulation
+  - Epigenetics
+  - Chromatin Biology
+- Cell Biology
+  - Cell Cycle
+  - Cell Signaling
+  - Cell Structure
+  - Organelle Biology
+  - Membrane Biology
+  - Cell Death
+  - Stem Cell Biology
+- Genetics
+  - Classical Genetics
+  - Population Genetics
+  - Quantitative Genetics
+  - Molecular Genetics
+  - Medical Genetics
+  - Evolutionary Genetics
+  - Developmental Genetics
+  - Behavioral Genetics
+  - Cancer Genetics
+- Genomics
+  - Functional Genomics
+  - Structural Genomics
+  - Comparative Genomics
+  - Metagenomics
+  - Pharmacogenomics
+  - Nutrigenomics
+- Biochemistry
+  - Metabolomics
+  - Proteomics
+  - Glycomics
+  - Lipidomics
+- Microbiology
+  - Bacteriology
+  - Virology
+  - Mycology
+  - Protozoology
+  - Parasitology
+  - Medical Microbiology
+  - Environmental Microbiology
+  - Industrial Microbiology
+  - Food Microbiology
+- Botany
+  - Plant Physiology
+  - Plant Anatomy
+  - Plant Morphology
+  - Plant Taxonomy
+  - Plant Ecology
+  - Plant Pathology
+  - Ethnobotany
+  - Paleobotany
+  - Bryology
+  - Phycology
+  - Mycology
+  - Dendrology
+- Zoology
+  - Entomology
+  - Ornithology
+  - Mammalogy
+  - Herpetology
+  - Ichthyology
+  - Malacology
+  - Arachnology
+  - Carcinology
+  - Helminthology
+  - Nematology
+  - Animal Behavior
+  - Animal Physiology
+- Ecology
+  - Population Ecology
+  - Community Ecology
+  - Ecosystem Ecology
+  - Landscape Ecology
+  - Conservation Biology
+  - Restoration Ecology
+  - Theoretical Ecology
+  - Behavioral Ecology
+  - Evolutionary Ecology
+  - Marine Ecology
+  - Freshwater Ecology
+  - Terrestrial Ecology
+  - Urban Ecology
+- Evolutionary Biology
+  - Macroevolution
+  - Microevolution
+  - Phylogenetics
+  - Molecular Evolution
+  - Coevolution
+  - Speciation
+  - Extinction Biology
+- Developmental Biology
+  - Embryology
+  - Morphogenesis
+  - Cell Differentiation
+  - Regenerative Biology
+  - Evolutionary Developmental Biology (Evo-Devo)
+- Physiology
+  - Human Physiology
+  - Animal Physiology
+  - Plant Physiology
+  - Neurophysiology
+  - Cardiovascular Physiology
+  - Respiratory Physiology
+  - Renal Physiology
+  - Endocrine Physiology
+  - Exercise Physiology
+- Anatomy
+  - Gross Anatomy
+  - Microscopic Anatomy
+  - Comparative Anatomy
+  - Developmental Anatomy
+  - Neuroanatomy
+- Immunology
+  - Cellular Immunology
+  - Molecular Immunology
+  - Clinical Immunology
+  - Tumor Immunology
+  - Transplantation Immunology
+  - Immunogenetics
+- Neuroscience
+  - Cellular Neuroscience
+  - Molecular Neuroscience
+  - Systems Neuroscience
+  - Cognitive Neuroscience
+  - Behavioral Neuroscience
+  - Computational Neuroscience
+  - Neuroanatomy
+  - Neurochemistry
+  - Neuroendocrinology
+  - Neurophysiology
+  - Neuropathology
+- Bioinformatics
+  - Computational Biology
+  - Systems Biology
+  - Structural Bioinformatics
+  - Sequence Analysis
+- Marine Biology
+  - Biological Oceanography
+  - Deep Sea Biology
+  - Coral Reef Biology
+- Astrobiology
+  - Exobiology
+  - Bioastronomy
+- Biotechnology
+  - Genetic Engineering
+  - Tissue Engineering
+  - Bioprocess Engineering
+  - Synthetic Biology
+
+### 1.4 Earth Sciences
+- Geology
+  - Mineralogy
+  - Petrology
+  - Sedimentology
+  - Structural Geology
+  - Stratigraphy
+  - Economic Geology
+  - Engineering Geology
+  - Hydrogeology
+  - Quaternary Geology
+  - Historical Geology
+- Geophysics
+  - Seismology
+  - Geomagnetism
+  - Gravity Studies
+  - Geodesy
+  - Geothermics
+- Geochemistry
+  - Isotope Geochemistry
+  - Organic Geochemistry
+  - Environmental Geochemistry
+- Paleontology
+  - Paleobotany
+  - Paleozoology
+  - Micropaleontology
+  - Paleoecology
+  - Biostratigraphy
+  - Taphonomy
+- Oceanography
+  - Physical Oceanography
+  - Chemical Oceanography
+  - Biological Oceanography
+  - Geological Oceanography
+  - Marine Geology
+- Meteorology
+  - Synoptic Meteorology
+  - Dynamic Meteorology
+  - Physical Meteorology
+  - Aviation Meteorology
+  - Agricultural Meteorology
+- Climatology
+  - Paleoclimatology
+  - Climate Dynamics
+  - Climate Change Science
+- Hydrology
+  - Surface Hydrology
+  - Groundwater Hydrology
+  - Hydrometeorology
+  - Ecohydrology
+- Glaciology
+  - Ice Sheet Dynamics
+  - Glacial Geology
+- Soil Science
+  - Pedology
+  - Edaphology
+  - Soil Chemistry
+  - Soil Physics
+  - Soil Biology
+- Atmospheric Science
+  - Atmospheric Chemistry
+  - Atmospheric Physics
+  - Aeronomy
+  - Cloud Physics
+- Environmental Science
+  - Environmental Chemistry
+  - Environmental Biology
+  - Environmental Geology
+  - Pollution Science
+  - Toxicology
+- Volcanology
+  - Physical Volcanology
+  - Chemical Volcanology
+- Planetary Science
+  - Planetary Geology
+  - Planetary Atmospheres
+  - Comparative Planetology
+
+### 1.5 Astronomy
+- Observational Astronomy
+  - Radio Astronomy
+  - Infrared Astronomy
+  - Optical Astronomy
+  - Ultraviolet Astronomy
+  - X-ray Astronomy
+  - Gamma-ray Astronomy
+- Theoretical Astronomy
+  - Celestial Mechanics
+  - Stellar Dynamics
+  - Galactic Dynamics
+- Solar Astronomy
+  - Solar Physics
+  - Helioseismology
+- Planetary Astronomy
+  - Planetary Science
+  - Asteroid Studies
+  - Comet Studies
+- Stellar Astronomy
+  - Stellar Evolution
+  - Stellar Structure
+  - Variable Stars
+- Galactic Astronomy
+  - Milky Way Studies
+  - Star Clusters
+  - Interstellar Medium
+- Extragalactic Astronomy
+  - Galaxy Formation
+  - Galaxy Evolution
+  - Active Galactic Nuclei
+  - Quasars
+- Cosmology
+  - Physical Cosmology
+  - Observational Cosmology
+  - Dark Matter Studies
+  - Dark Energy Studies
+  - Big Bang Theory
+- Astrobiology
+  - SETI (Search for Extraterrestrial Intelligence)
+- Astrometry
+  - Positional Astronomy
+  - Proper Motion Studies
+
+## 2. Formal Sciences
+
+### 2.1 Mathematics
+- Pure Mathematics
+  - Algebra
+    - Elementary Algebra
+    - Linear Algebra
+    - Abstract Algebra
+    - Group Theory
+    - Ring Theory
+    - Field Theory
+    - Module Theory
+    - Commutative Algebra
+    - Noncommutative Algebra
+    - Homological Algebra
+    - Lie Algebra
+    - Universal Algebra
+    - Algebraic Combinatorics
+  - Analysis
+    - Real Analysis
+    - Complex Analysis
+    - Functional Analysis
+    - Harmonic Analysis
+    - Fourier Analysis
+    - Measure Theory
+    - Integration Theory
+    - Differential Equations
+    - Partial Differential Equations
+    - Ordinary Differential Equations
+    - Calculus of Variations
+    - Operator Theory
+    - Spectral Theory
+  - Geometry
+    - Euclidean Geometry
+    - Non-Euclidean Geometry
+    - Differential Geometry
+    - Algebraic Geometry
+    - Topology
+    - Analytic Geometry
+    - Projective Geometry
+    - Affine Geometry
+    - Discrete Geometry
+    - Computational Geometry
+    - Riemannian Geometry
+    - Symplectic Geometry
+  - Topology
+    - General Topology
+    - Algebraic Topology
+    - Differential Topology
+    - Geometric Topology
+    - Low-dimensional Topology
+    - Knot Theory
+  - Number Theory
+    - Elementary Number Theory
+    - Algebraic Number Theory
+    - Analytic Number Theory
+    - Computational Number Theory
+    - Diophantine Equations
+    - Prime Number Theory
+    - Transcendental Number Theory
+  - Combinatorics
+    - Enumerative Combinatorics
+    - Algebraic Combinatorics
+    - Geometric Combinatorics
+    - Extremal Combinatorics
+    - Probabilistic Combinatorics
+    - Graph Theory
+    - Matroid Theory
+  - Logic and Foundations
+    - Mathematical Logic
+    - Set Theory
+    - Model Theory
+    - Proof Theory
+    - Recursion Theory
+    - Computability Theory
+    - Category Theory
+    - Type Theory
+- Applied Mathematics
+  - Numerical Analysis
+    - Numerical Linear Algebra
+    - Numerical Differential Equations
+    - Optimization
+    - Approximation Theory
+  - Dynamical Systems
+    - Chaos Theory
+    - Ergodic Theory
+    - Bifurcation Theory
+  - Mathematical Physics
+    - Classical Mechanics
+    - Quantum Mechanics
+    - Statistical Mechanics
+  - Operations Research
+    - Linear Programming
+    - Integer Programming
+    - Scheduling Theory
+    - Queueing Theory
+    - Game Theory
+  - Probability Theory
+    - Stochastic Processes
+    - Random Walk Theory
+    - Martingale Theory
+  - Statistics
+    - Descriptive Statistics
+    - Inferential Statistics
+    - Bayesian Statistics
+    - Multivariate Statistics
+    - Time Series Analysis
+  - Discrete Mathematics
+    - Graph Theory
+    - Coding Theory
+    - Cryptography
+    - Algorithmic Graph Theory
+  - Mathematical Modeling
+    - Biomathematics
+    - Financial Mathematics
+    - Mathematical Ecology
+  - Computational Mathematics
+    - Scientific Computing
+    - Symbolic Computation
+  - Control Theory
+    - Optimal Control
+    - Robust Control
+    - Adaptive Control
+  - Information Theory
+    - Coding Theory
+    - Data Compression
+
+### 2.2 Computer Science
+- Theoretical Computer Science
+  - Theory of Computation
+  - Automata Theory
+  - Formal Languages
+  - Computational Complexity Theory
+  - Algorithm Design and Analysis
+  - Randomized Algorithms
+  - Approximation Algorithms
+  - Quantum Computing
+  - Cryptography
+  - Computational Number Theory
+  - Computational Geometry
+  - Graph Algorithms
+- Programming Languages
+  - Language Design
+  - Compiler Design
+  - Programming Language Theory
+  - Type Systems
+  - Functional Programming
+  - Object-Oriented Programming
+  - Logic Programming
+  - Concurrent Programming
+  - Domain-Specific Languages
+- Software Engineering
+  - Software Design
+  - Software Architecture
+  - Software Testing
+  - Software Verification
+  - Software Maintenance
+  - Requirements Engineering
+  - Software Project Management
+  - DevOps
+  - Agile Methodologies
+- Computer Systems
+  - Operating Systems
+  - Distributed Systems
+  - Computer Networks
+  - Database Systems
+  - Computer Architecture
+  - Embedded Systems
+  - Real-Time Systems
+  - Cloud Computing
+  - Parallel Computing
+  - Grid Computing
+- Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Neural Networks
+  - Computer Vision
+  - Natural Language Processing
+  - Robotics
+  - Expert Systems
+  - Knowledge Representation
+  - Planning and Scheduling
+  - Reasoning Systems
+- Data Science
+  - Data Mining
+  - Big Data Analytics
+  - Statistical Learning
+  - Predictive Analytics
+  - Data Visualization
+- Human-Computer Interaction
+  - User Interface Design
+  - User Experience Design
+  - Accessibility
+  - Virtual Reality
+  - Augmented Reality
+- Computer Graphics
+  - 3D Graphics
+  - Rendering
+  - Animation
+  - Image Processing
+  - Computer Vision
+- Information Systems
+  - Information Retrieval
+  - Database Management
+  - Information Security
+  - Data Warehousing
+  - Business Intelligence
+- Cybersecurity
+  - Network Security
+  - Cryptography
+  - Security Protocols
+  - Malware Analysis
+  - Penetration Testing
+  - Digital Forensics
+- Computational Biology
+  - Bioinformatics
+  - Computational Genomics
+  - Systems Biology
+
+### 2.3 Logic
+- Philosophical Logic
+  - Modal Logic
+  - Temporal Logic
+  - Deontic Logic
+  - Epistemic Logic
+  - Many-Valued Logic
+  - Fuzzy Logic
+  - Paraconsistent Logic
+- Mathematical Logic
+  - Propositional Logic
+  - Predicate Logic
+  - First-Order Logic
+  - Higher-Order Logic
+  - Intuitionistic Logic
+- Computational Logic
+  - Boolean Algebra
+  - Circuit Design
+  - Logic Programming
+
+### 2.4 Statistics
+- Descriptive Statistics
+  - Univariate Analysis
+  - Bivariate Analysis
+  - Multivariate Analysis
+- Inferential Statistics
+  - Hypothesis Testing
+  - Confidence Intervals
+  - Statistical Significance
+- Bayesian Statistics
+  - Bayesian Inference
+  - Bayesian Networks
+  - Prior and Posterior Distributions
+- Non-parametric Statistics
+  - Rank-Based Methods
+  - Permutation Tests
+- Experimental Design
+  - Randomized Controlled Trials
+  - Factorial Design
+  - Block Design
+- Sampling Theory
+  - Simple Random Sampling
+  - Stratified Sampling
+  - Cluster Sampling
+- Regression Analysis
+  - Linear Regression
+  - Logistic Regression
+  - Nonlinear Regression
+  - Time Series Analysis
+- Multivariate Statistics
+  - Principal Component Analysis
+  - Factor Analysis
+  - Cluster Analysis
+  - Discriminant Analysis
+- Survival Analysis
+  - Kaplan-Meier Estimation
+  - Cox Proportional Hazards
+- Spatial Statistics
+  - Geostatistics
+  - Kriging
+- Computational Statistics
+  - Monte Carlo Methods
+  - Bootstrap Methods
+  - Markov Chain Monte Carlo
+
+### 2.5 Systems Theory
+- General Systems Theory
+- Control Systems Theory
+- Information Systems Theory
+- Complex Systems
+- Cybernetics
+- Network Theory
+- Chaos Theory
+
+## 3. Social Sciences
+
+### 3.1 Psychology
+- Cognitive Psychology
+  - Perception
+  - Attention
+  - Memory
+  - Learning
+  - Thinking and Reasoning
+  - Language Processing
+  - Problem Solving
+  - Decision Making
+  - Intelligence
+- Developmental Psychology
+  - Child Development
+  - Adolescent Development
+  - Adult Development
+  - Aging
+  - Lifespan Development
+- Social Psychology
+  - Attitudes
+  - Persuasion
+  - Group Dynamics
+  - Social Cognition
+  - Prejudice and Discrimination
+  - Interpersonal Relations
+  - Aggression
+  - Prosocial Behavior
+- Clinical Psychology
+  - Psychopathology
+  - Psychological Assessment
+  - Psychotherapy
+  - Counseling
+  - Mental Health
+- Abnormal Psychology
+  - Mood Disorders
+  - Anxiety Disorders
+  - Personality Disorders
+  - Psychotic Disorders
+  - Eating Disorders
+  - Substance Abuse
+- Biological Psychology
+  - Neuropsychology
+  - Psychopharmacology
+  - Behavioral Neuroscience
+  - Evolutionary Psychology
+- Personality Psychology
+  - Trait Theory
+  - Psychodynamic Theory
+  - Humanistic Theory
+  - Behavioral Theory
+- Educational Psychology
+  - Learning Theories
+  - Instructional Design
+  - Classroom Management
+  - Educational Assessment
+- Industrial-Organizational Psychology
+  - Personnel Psychology
+  - Organizational Behavior
+  - Human Factors
+  - Workplace Motivation
+- Health Psychology
+  - Behavioral Medicine
+  - Stress and Coping
+  - Health Behavior Change
+- Forensic Psychology
+  - Criminal Psychology
+  - Legal Psychology
+  - Police Psychology
+- Sports Psychology
+  - Performance Enhancement
+  - Team Dynamics
+- Environmental Psychology
+  - Person-Environment Interaction
+  - Environmental Stress
+- Cultural Psychology
+  - Cross-Cultural Psychology
+  - Indigenous Psychology
+- Experimental Psychology
+  - Psychophysics
+  - Sensation and Perception
+
+### 3.2 Sociology
+- Theoretical Sociology
+  - Structural Functionalism
+  - Conflict Theory
+  - Symbolic Interactionism
+  - Feminist Theory
+  - Critical Theory
+- Social Stratification
+  - Class Analysis
+  - Social Mobility
+  - Inequality Studies
+  - Poverty Studies
+- Race and Ethnicity
+  - Race Relations
+  - Ethnic Studies
+  - Immigration Studies
+- Gender Studies
+  - Gender Roles
+  - Sexuality Studies
+  - LGBTQ+ Studies
+- Family Sociology
+  - Marriage and Divorce
+  - Parenting
+  - Kinship Systems
+- Urban Sociology
+  - Urbanization
+  - Community Studies
+  - Urban Planning
+- Rural Sociology
+  - Agricultural Communities
+  - Rural Development
+- Political Sociology
+  - Power and Authority
+  - Social Movements
+  - Revolutions
+  - Political Participation
+- Economic Sociology
+  - Labor Markets
+  - Organizations
+  - Economic Development
+- Sociology of Religion
+  - Religious Institutions
+  - Secularization
+  - Religious Movements
+- Sociology of Education
+  - Educational Institutions
+  - Educational Inequality
+  - Socialization
+- Medical Sociology
+  - Health and Illness
+  - Healthcare Systems
+  - Medical Professions
+- Environmental Sociology
+  - Human-Environment Interaction
+  - Environmental Movements
+- Cultural Sociology
+  - Cultural Production
+  - Cultural Consumption
+  - Popular Culture
+- Criminology
+  - Theories of Crime
+  - Criminal Justice System
+  - Deviance
+- Demography
+  - Population Studies
+  - Fertility
+  - Mortality
+  - Migration
+- Social Psychology
+  - Group Behavior
+  - Social Influence
+  - Identity Formation
+- Organizational Sociology
+  - Bureaucracy
+  - Organizational Theory
+  - Workplace Studies
+- Science and Technology Studies
+  - Sociology of Science
+  - Sociology of Technology
+  - Innovation Studies
+
+### 3.3 Economics
+- Microeconomics
+  - Consumer Theory
+  - Producer Theory
+  - Market Structure
+  - Game Theory
+  - Auction Theory
+  - Information Economics
+  - Behavioral Economics
+- Macroeconomics
+  - Economic Growth
+  - Business Cycles
+  - Unemployment
+  - Inflation
+  - Monetary Policy
+  - Fiscal Policy
+  - Exchange Rates
+- International Economics
+  - International Trade
+  - International Finance
+  - Trade Policy
+  - Currency Markets
+- Development Economics
+  - Economic Development
+  - Poverty and Inequality
+  - Institutional Economics
+- Labor Economics
+  - Labor Markets
+  - Wage Determination
+  - Human Capital
+  - Discrimination
+- Public Economics
+  - Public Finance
+  - Taxation
+  - Public Goods
+  - Welfare Economics
+- Environmental Economics
+  - Natural Resource Economics
+  - Climate Economics
+  - Pollution Control
+- Health Economics
+  - Healthcare Markets
+  - Health Insurance
+  - Pharmaceutical Economics
+- Financial Economics
+  - Asset Pricing
+  - Portfolio Theory
+  - Corporate Finance
+  - Banking
+- Industrial Organization
+  - Market Power
+  - Regulation
+  - Antitrust Economics
+- Econometrics
+  - Time Series Analysis
+  - Panel Data Analysis
+  - Causal Inference
+  - Statistical Methods
+- Economic History
+  - Historical Economic Development
+  - Financial History
+- Computational Economics
+  - Agent-Based Modeling
+  - Numerical Methods
+
+### 3.4 Political Science
+- Political Theory
+  - Classical Political Theory
+  - Modern Political Theory
+  - Contemporary Political Theory
+  - Normative Theory
+  - Political Philosophy
+- Comparative Politics
+  - Comparative Government
+  - Political Systems
+  - Democratization
+  - Authoritarianism
+- International Relations
+  - International Security
+  - International Political Economy
+  - Diplomacy
+  - International Organizations
+  - Conflict Studies
+  - Peace Studies
+  - Foreign Policy Analysis
+- Public Administration
+  - Bureaucracy
+  - Public Policy
+  - Policy Analysis
+  - Public Management
+- American Politics
+  - Congress
+  - Presidency
+  - Judiciary
+  - State and Local Government
+  - Electoral Politics
+- Political Methodology
+  - Quantitative Methods
+  - Qualitative Methods
+  - Formal Theory
+- Political Economy
+  - Capitalism
+  - Socialism
+  - Economic Policy
+- Public Policy
+  - Social Policy
+  - Economic Policy
+  - Environmental Policy
+  - Education Policy
+  - Health Policy
+
+### 3.5 Anthropology
+- Cultural Anthropology
+  - Ethnography
+  - Kinship Studies
+  - Religion and Ritual
+  - Symbolic Anthropology
+  - Economic Anthropology
+  - Political Anthropology
+  - Medical Anthropology
+  - Urban Anthropology
+- Physical/Biological Anthropology
+  - Human Evolution
+  - Primatology
+  - Human Genetics
+  - Forensic Anthropology
+  - Bioarchaeology
+- Archaeology
+  - Prehistoric Archaeology
+  - Historical Archaeology
+  - Classical Archaeology
+  - Underwater Archaeology
+  - Experimental Archaeology
+  - Landscape Archaeology
+- Linguistic Anthropology
+  - Language and Culture
+  - Sociolinguistics
+  - Ethnolinguistics
+  - Historical Linguistics
+- Applied Anthropology
+  - Development Anthropology
+  - Public Anthropology
+  - Business Anthropology
+
+### 3.6 Geography
+- Physical Geography
+  - Geomorphology
+  - Climatology
+  - Biogeography
+  - Hydrology
+  - Soil Geography
+- Human Geography
+  - Urban Geography
+  - Economic Geography
+  - Cultural Geography
+  - Political Geography
+  - Population Geography
+  - Historical Geography
+  - Social Geography
+- Regional Geography
+  - Area Studies
+  - Regional Development
+- Cartography
+  - Map Design
+  - GIS (Geographic Information Systems)
+  - Remote Sensing
+- Geomatics
+  - Spatial Analysis
+  - Geostatistics
+
+### 3.7 Linguistics
+- Phonetics
+  - Articulatory Phonetics
+  - Acoustic Phonetics
+  - Auditory Phonetics
+- Phonology
+  - Segmental Phonology
+  - Suprasegmental Phonology
+  - Prosody
+- Morphology
+  - Inflectional Morphology
+  - Derivational Morphology
+  - Compounding
+- Syntax
+  - Phrase Structure
+  - Dependency Grammar
+  - Transformational Grammar
+- Semantics
+  - Lexical Semantics
+  - Compositional Semantics
+  - Formal Semantics
+- Pragmatics
+  - Speech Acts
+  - Conversational Implicature
+  - Discourse Analysis
+- Sociolinguistics
+  - Language Variation
+  - Dialectology
+  - Language and Identity
+- Psycholinguistics
+  - Language Acquisition
+  - Language Processing
+  - Bilingualism
+- Historical Linguistics
+  - Language Change
+  - Comparative Linguistics
+  - Etymology
+- Applied Linguistics
+  - Language Teaching
+  - Translation Studies
+  - Forensic Linguistics
+- Computational Linguistics
+  - Natural Language Processing
+  - Corpus Linguistics
+  - Machine Translation
+
+### 3.8 Communication Studies
+- Interpersonal Communication
+- Organizational Communication
+- Mass Communication
+- Media Studies
+- Journalism
+- Public Relations
+- Advertising
+- Rhetoric
+- Digital Communication
+
+### 3.9 Education
+- Curriculum and Instruction
+- Educational Psychology
+- Educational Administration
+- Higher Education
+- Adult Education
+- Special Education
+- Educational Technology
+- Comparative Education
+- Philosophy of Education
+
+## 4. Humanities
+
+### 4.1 Philosophy
+- Metaphysics
+  - Ontology
+  - Philosophy of Mind
+  - Philosophy of Time
+  - Philosophy of Space
+  - Free Will and Determinism
+  - Causation
+  - Identity and Change
+- Epistemology
+  - Theory of Knowledge
+  - Justification
+  - Skepticism
+  - Rationalism
+  - Empiricism
+- Ethics
+  - Metaethics
+  - Normative Ethics
+  - Applied Ethics
+  - Virtue Ethics
+  - Deontological Ethics
+  - Consequentialism
+  - Bioethics
+  - Environmental Ethics
+  - Business Ethics
+- Logic
+  - Formal Logic
+  - Informal Logic
+  - Philosophical Logic
+- Philosophy of Science
+  - Scientific Method
+  - Scientific Realism
+  - Philosophy of Physics
+  - Philosophy of Biology
+  - Philosophy of Chemistry
+- Political Philosophy
+  - Justice
+  - Rights
+  - Liberty
+  - Democracy
+  - Social Contract Theory
+- Aesthetics
+  - Philosophy of Art
+  - Philosophy of Music
+  - Philosophy of Literature
+- Philosophy of Language
+  - Meaning
+  - Reference
+  - Truth
+- Philosophy of Religion
+  - Arguments for God's Existence
+  - Problem of Evil
+  - Religious Experience
+- Existentialism
+- Phenomenology
+- Pragmatism
+- Analytic Philosophy
+- Continental Philosophy
+- Eastern Philosophy
+  - Buddhist Philosophy
+  - Confucianism
+  - Taoism
+  - Hindu Philosophy
+
+### 4.2 History
+- Ancient History
+  - Ancient Near East
+  - Ancient Egypt
+  - Ancient Greece
+  - Ancient Rome
+  - Ancient China
+  - Ancient India
+  - Pre-Columbian Americas
+- Medieval History
+  - Early Middle Ages
+  - High Middle Ages
+  - Late Middle Ages
+  - Byzantine History
+  - Islamic Golden Age
+- Early Modern History
+  - Renaissance
+  - Reformation
+  - Age of Exploration
+  - Scientific Revolution
+- Modern History
+  - Enlightenment
+  - Industrial Revolution
+  - Colonial History
+  - World War I
+  - Interwar Period
+  - World War II
+  - Cold War
+- Contemporary History
+  - Post-Cold War Era
+  - Globalization
+  - Digital Age
+- Regional History
+  - European History
+  - Asian History
+  - African History
+  - American History
+  - Middle Eastern History
+  - Latin American History
+- Thematic History
+  - Economic History
+  - Social History
+  - Cultural History
+  - Military History
+  - Diplomatic History
+  - Intellectual History
+  - History of Science
+  - History of Technology
+  - Environmental History
+  - Gender History
+  - Labor History
+  - Urban History
+- Historiography
+  - Historical Methods
+  - Philosophy of History
+  - Historical Theory
+
+### 4.3 Literature
+- Literary Theory
+  - Structuralism
+  - Post-Structuralism
+  - Deconstruction
+  - Formalism
+  - New Criticism
+  - Reader-Response Theory
+  - Psychoanalytic Criticism
+  - Marxist Criticism
+  - Feminist Criticism
+  - Postcolonial Criticism
+- Comparative Literature
+  - World Literature
+  - Translation Studies
+- Poetry
+  - Epic Poetry
+  - Lyric Poetry
+  - Narrative Poetry
+  - Dramatic Poetry
+- Fiction
+  - Novel
+  - Short Story
+  - Novella
+- Drama
+  - Tragedy
+  - Comedy
+  - Tragicomedy
+  - Farce
+- Non-Fiction
+  - Essay
+  - Biography
+  - Autobiography
+  - Memoir
+- Children's Literature
+- Young Adult Literature
+- Genre Studies
+  - Science Fiction
+  - Fantasy
+  - Mystery
+  - Romance
+  - Horror
+- Literary Periods
+  - Classical Literature
+  - Medieval Literature
+  - Renaissance Literature
+  - Romantic Literature
+  - Victorian Literature
+  - Modernist Literature
+  - Postmodern Literature
+- National Literatures
+  - English Literature
+  - American Literature
+  - French Literature
+  - German Literature
+  - Russian Literature
+  - Spanish Literature
+  - Latin American Literature
+  - African Literature
+  - Asian Literature
+
+### 4.4 Languages
+- Indo-European Languages
+  - Germanic Languages
+    - English
+    - German
+    - Dutch
+    - Swedish
+    - Danish
+    - Norwegian
+  - Romance Languages
+    - Spanish
+    - French
+    - Italian
+    - Portuguese
+    - Romanian
+  - Slavic Languages
+    - Russian
+    - Polish
+    - Czech
+    - Serbian
+    - Ukrainian
+  - Indo-Iranian Languages
+    - Hindi
+    - Urdu
+    - Persian
+    - Bengali
+  - Celtic Languages
+    - Irish
+    - Welsh
+    - Scottish Gaelic
+  - Greek
+  - Albanian
+- Sino-Tibetan Languages
+  - Chinese (Mandarin, Cantonese, etc.)
+  - Tibetan
+  - Burmese
+- Afro-Asiatic Languages
+  - Arabic
+  - Hebrew
+  - Amharic
+- Niger-Congo Languages
+  - Swahili
+  - Yoruba
+  - Zulu
+- Austronesian Languages
+  - Indonesian
+  - Malay
+  - Tagalog
+- Altaic Languages (disputed)
+  - Turkish
+  - Mongolian
+- Uralic Languages
+  - Finnish
+  - Hungarian
+  - Estonian
+- Japanese
+- Korean
+- Dravidian Languages
+  - Tamil
+  - Telugu
+  - Kannada
+- Sign Languages
+  - American Sign Language
+  - British Sign Language
+- Constructed Languages
+  - Esperanto
+  - Klingon
+
+### 4.5 Visual Arts
+- Painting
+  - Oil Painting
+  - Watercolor
+  - Acrylic Painting
+  - Fresco
+- Drawing
+  - Sketching
+  - Illustration
+  - Technical Drawing
+- Sculpture
+  - Stone Carving
+  - Wood Carving
+  - Metal Sculpture
+  - Ceramic Sculpture
+  - Installation Art
+- Printmaking
+  - Engraving
+  - Etching
+  - Lithography
+  - Screen Printing
+- Photography
+  - Portrait Photography
+  - Landscape Photography
+  - Documentary Photography
+  - Fine Art Photography
+  - Digital Photography
+- Digital Art
+  - Computer Graphics
+  - Digital Painting
+  - 3D Modeling
+  - Animation
+- Graphic Design
+  - Typography
+  - Logo Design
+  - Layout Design
+  - User Interface Design
+- Art History
+  - Ancient Art
+  - Medieval Art
+  - Renaissance Art
+  - Baroque Art
+  - Rococo
+  - Neoclassicism
+  - Romanticism
+  - Realism
+  - Impressionism
+  - Post-Impressionism
+  - Expressionism
+  - Cubism
+  - Surrealism
+  - Abstract Expressionism
+  - Pop Art
+  - Minimalism
+  - Conceptual Art
+  - Contemporary Art
+
+### 4.6 Performing Arts
+- Music
+  - Music Theory
+  - Composition
+  - Musicology
+  - Ethnomusicology
+  - Performance Practice
+  - Music Education
+  - Classical Music
+  - Jazz
+  - Popular Music
+  - Folk Music
+  - World Music
+  - Electronic Music
+- Theater
+  - Acting
+  - Directing
+  - Playwriting
+  - Stage Design
+  - Lighting Design
+  - Costume Design
+  - Theater History
+- Dance
+  - Ballet
+  - Modern Dance
+  - Contemporary Dance
+  - Jazz Dance
+  - Hip Hop Dance
+  - Traditional Dance
+  - Choreography
+  - Dance History
+- Film
+  - Film Production
+  - Film Direction
+  - Cinematography
+  - Film Editing
+  - Screenwriting
+  - Film Theory
+  - Film History
+  - Animation
+  - Documentary Film
+- Opera
+  - Opera Performance
+  - Opera History
+  - Libretto Writing
+
+### 4.7 Religious Studies
+- Christianity
+  - Biblical Studies
+  - Theology
+  - Church History
+  - Christian Ethics
+  - Denominational Studies
+- Islam
+  - Quranic Studies
+  - Hadith Studies
+  - Islamic Law (Sharia)
+  - Islamic Philosophy
+  - Sufism
+- Judaism
+  - Torah Studies
+  - Talmudic Studies
+  - Jewish Philosophy
+  - Jewish History
+  - Kabbalah
+- Hinduism
+  - Vedic Studies
+  - Hindu Philosophy
+  - Yoga Studies
+- Buddhism
+  - Buddhist Philosophy
+  - Buddhist Texts
+  - Meditation Studies
+- East Asian Religions
+  - Confucianism
+  - Taoism
+  - Shinto
+- Comparative Religion
+- Mythology
+- Religious Anthropology
+- Sociology of Religion
+
+### 4.8 Classics
+- Classical Languages
+  - Ancient Greek
+  - Latin
+- Classical Literature
+  - Greek Literature
+  - Roman Literature
+- Ancient History
+- Classical Archaeology
+- Classical Philosophy
+- Classical Art and Architecture
+
+### 4.9 Area Studies
+- African Studies
+- Asian Studies
+  - East Asian Studies
+  - South Asian Studies
+  - Southeast Asian Studies
+- European Studies
+- Latin American Studies
+- Middle Eastern Studies
+- North American Studies
+- Pacific Studies
+
+## 5. Applied Sciences and Professions
+
+### 5.1 Engineering
+- Civil Engineering
+  - Structural Engineering
+  - Transportation Engineering
+  - Geotechnical Engineering
+  - Environmental Engineering
+  - Water Resources Engineering
+  - Coastal Engineering
+  - Construction Engineering
+  - Earthquake Engineering
+- Mechanical Engineering
+  - Thermodynamics
+  - Fluid Mechanics
+  - Manufacturing Engineering
+  - Automotive Engineering
+  - Aerospace Engineering
+  - Robotics
+  - Mechatronics
+  - HVAC Engineering
+- Electrical Engineering
+  - Power Systems
+  - Electronics
+  - Control Systems
+  - Signal Processing
+  - Telecommunications
+  - Microelectronics
+  - Electromagnetics
+- Computer Engineering
+  - Hardware Design
+  - Embedded Systems
+  - Computer Architecture
+  - Network Engineering
+- Chemical Engineering
+  - Process Engineering
+  - Biochemical Engineering
+  - Materials Engineering
+  - Polymer Engineering
+  - Petroleum Engineering
+- Biomedical Engineering
+  - Medical Devices
+  - Biomechanics
+  - Tissue Engineering
+  - Biomedical Imaging
+  - Rehabilitation Engineering
+- Industrial Engineering
+  - Operations Research
+  - Manufacturing Systems
+  - Quality Engineering
+  - Supply Chain Management
+  - Human Factors Engineering
+- Environmental Engineering
+  - Water Treatment
+  - Air Pollution Control
+  - Solid Waste Management
+  - Hazardous Waste Management
+- Materials Science and Engineering
+  - Metallurgy
+  - Ceramics
+  - Polymers
+  - Composites
+  - Nanomaterials
+- Nuclear Engineering
+  - Reactor Design
+  - Nuclear Safety
+  - Radiation Protection
+  - Nuclear Fuel Cycle
+- Agricultural Engineering
+  - Irrigation Engineering
+  - Farm Machinery
+  - Soil and Water Conservation
+- Mining Engineering
+  - Mineral Extraction
+  - Mine Safety
+  - Mineral Processing
+- Ocean Engineering
+  - Naval Architecture
+  - Marine Engineering
+  - Offshore Engineering
+- Systems Engineering
+  - Systems Design
+  - Systems Integration
+  - Requirements Engineering
+
+### 5.2 Medicine and Health Sciences
+- Basic Medical Sciences
+  - Anatomy
+  - Physiology
+  - Biochemistry
+  - Pharmacology
+  - Pathology
+  - Microbiology
+  - Immunology
+  - Genetics
+- Clinical Medicine
+  - Internal Medicine
+    - Cardiology
+    - Pulmonology
+    - Gastroenterology
+    - Nephrology
+    - Endocrinology
+    - Hematology
+    - Oncology
+    - Infectious Diseases
+    - Rheumatology
+  - Surgery
+    - General Surgery
+    - Cardiothoracic Surgery
+    - Neurosurgery
+    - Orthopedic Surgery
+    - Plastic Surgery
+    - Vascular Surgery
+    - Pediatric Surgery
+  - Pediatrics
+    - Neonatology
+    - Pediatric Cardiology
+    - Developmental Pediatrics
+  - Obstetrics and Gynecology
+    - Maternal-Fetal Medicine
+    - Reproductive Endocrinology
+    - Gynecologic Oncology
+  - Psychiatry
+    - Child Psychiatry
+    - Geriatric Psychiatry
+    - Forensic Psychiatry
+    - Addiction Psychiatry
+  - Neurology
+    - Clinical Neurophysiology
+    - Neuromuscular Medicine
+  - Dermatology
+    - Cosmetic Dermatology
+    - Dermatopathology
+  - Ophthalmology
+    - Retinal Surgery
+    - Cataract Surgery
+  - Otolaryngology (ENT)
+    - Head and Neck Surgery
+  - Radiology
+    - Diagnostic Radiology
+    - Interventional Radiology
+    - Nuclear Medicine
+  - Anesthesiology
+    - Pain Management
+    - Critical Care
+  - Emergency Medicine
+    - Trauma Surgery
+    - Toxicology
+  - Family Medicine
+  - Geriatrics
+  - Preventive Medicine
+  - Physical Medicine and Rehabilitation
+- Dentistry
+  - Oral Surgery
+  - Orthodontics
+  - Periodontics
+  - Endodontics
+  - Prosthodontics
+  - Pediatric Dentistry
+- Nursing
+  - Medical-Surgical Nursing
+  - Pediatric Nursing
+  - Psychiatric Nursing
+  - Critical Care Nursing
+  - Oncology Nursing
+  - Community Health Nursing
+- Allied Health Professions
+  - Physical Therapy
+  - Occupational Therapy
+  - Speech-Language Pathology
+  - Respiratory Therapy
+  - Medical Laboratory Science
+  - Radiologic Technology
+  - Pharmacy
+  - Nutrition and Dietetics
+- Public Health
+  - Epidemiology
+  - Biostatistics
+  - Environmental Health
+  - Health Policy
+  - Global Health
+  - Occupational Health
+  - Health Education
+- Veterinary Medicine
+  - Small Animal Medicine
+  - Large Animal Medicine
+  - Exotic Animal Medicine
+  - Veterinary Surgery
+  - Veterinary Pathology
+
+### 5.3 Agriculture and Food Sciences
+- Agronomy
+  - Crop Science
+  - Soil Science
+  - Plant Breeding
+  - Seed Technology
+- Horticulture
+  - Fruit Science
+  - Vegetable Science
+  - Floriculture
+  - Landscape Horticulture
+- Animal Science
+  - Animal Nutrition
+  - Animal Breeding
+  - Dairy Science
+  - Poultry Science
+  - Aquaculture
+- Agricultural Economics
+  - Farm Management
+  - Agricultural Marketing
+  - Agricultural Policy
+- Agricultural Engineering
+- Plant Pathology
+- Entomology
+- Food Science and Technology
+  - Food Chemistry
+  - Food Microbiology
+  - Food Processing
+  - Food Safety
+  - Nutrition Science
+- Forestry
+  - Silviculture
+  - Forest Management
+  - Forest Ecology
+  - Wood Science
+- Range Science
+- Viticulture and Enology
+
+### 5.4 Architecture and Planning
+- Architecture
+  - Architectural Design
+  - Architectural History
+  - Architectural Theory
+  - Building Technology
+  - Sustainable Architecture
+  - Landscape Architecture
+  - Interior Architecture
+- Urban Planning
+  - City Planning
+  - Regional Planning
+  - Transportation Planning
+  - Environmental Planning
+  - Community Development
+- Urban Design
+  - Public Space Design
+  - Urban Morphology
+
+### 5.5 Business and Management
+- Accounting
+  - Financial Accounting
+  - Managerial Accounting
+  - Auditing
+  - Tax Accounting
+  - Forensic Accounting
+- Finance
+  - Corporate Finance
+  - Investment Management
+  - Financial Markets
+  - Financial Risk Management
+  - International Finance
+- Marketing
+  - Consumer Behavior
+  - Brand Management
+  - Digital Marketing
+  - Market Research
+  - Advertising
+  - Public Relations
+- Management
+  - Strategic Management
+  - Operations Management
+  - Human Resource Management
+  - Project Management
+  - Quality Management
+  - Innovation Management
+- Entrepreneurship
+  - Venture Capital
+  - Business Planning
+  - Social Entrepreneurship
+- International Business
+  - Global Strategy
+  - Cross-Cultural Management
+- Information Systems
+  - Business Intelligence
+  - Enterprise Systems
+  - E-Commerce
+- Supply Chain Management
+  - Logistics
+  - Procurement
+  - Inventory Management
+- Organizational Behavior
+  - Leadership
+  - Motivation
+  - Team Dynamics
+
+### 5.6 Law
+- Constitutional Law
+- Criminal Law
+- Civil Law
+- Contract Law
+- Tort Law
+- Property Law
+- Corporate Law
+- International Law
+- Environmental Law
+- Intellectual Property Law
+- Labor Law
+- Tax Law
+- Family Law
+- Administrative Law
+- Maritime Law
+
+### 5.7 Library and Information Science
+- Information Organization
+  - Cataloging
+  - Classification
+  - Metadata
+- Information Retrieval
+  - Search Systems
+  - Digital Libraries
+- Archives and Records Management
+- Information Technology
+- Information Policy
+- Information Behavior
+- Knowledge Management
+
+### 5.8 Social Work
+- Clinical Social Work
+- Community Organization
+- Child Welfare
+- Medical Social Work
+- School Social Work
+- Gerontological Social Work
+
+### 5.9 Journalism and Media
+- Print Journalism
+- Broadcast Journalism
+- Digital Journalism
+- Investigative Journalism
+- Sports Journalism
+- Science Journalism
+- Photojournalism
+- Media Production
+- Media Ethics
+
+## 6. Interdisciplinary and Emerging Fields
+
+### 6.1 Cognitive Science
+- Artificial Intelligence
+- Neuroscience
+- Psychology
+- Linguistics
+- Philosophy of Mind
+- Anthropology of Cognition
+
+### 6.2 Environmental Studies
+- Environmental Science
+- Environmental Policy
+- Sustainability Studies
+- Conservation Biology
+- Climate Change Studies
+- Ecological Economics
+- Environmental Ethics
+
+### 6.3 Gender and Sexuality Studies
+- Feminist Theory
+- Queer Theory
+- Masculinity Studies
+- Women's Studies
+- LGBTQ+ Studies
+
+### 6.4 Cultural Studies
+- Media Studies
+- Popular Culture
+- Postcolonial Studies
+- Critical Race Theory
+- Visual Culture
+
+### 6.5 Development Studies
+- Economic Development
+- International Development
+- Sustainable Development
+- Human Development
+
+### 6.6 Peace and Conflict Studies
+- Conflict Resolution
+- Peacebuilding
+- Security Studies
+- Terrorism Studies
+
+### 6.7 Science and Technology Studies
+- History of Science
+- Philosophy of Technology
+- Social Studies of Science
+- Innovation Studies
+- Bioethics
+
+### 6.8 Disability Studies
+- Disability Rights
+- Accessibility
+- Inclusive Design
+- Disability History
+
+### 6.9 Urban Studies
+- Urban Sociology
+- Urban Geography
+- Urban Planning
+- Urban Economics
+- Urban Ecology
+
+### 6.10 Data Science
+- Big Data Analytics
+- Machine Learning
+- Statistical Analysis
+- Data Visualization
+- Predictive Modeling
+
+### 6.11 Neuroscience
+- Cellular Neuroscience
+- Molecular Neuroscience
+- Systems Neuroscience
+- Cognitive Neuroscience
+- Computational Neuroscience
+- Clinical Neuroscience
+
+### 6.12 Nanotechnology
+- Nanomaterials
+- Nanoelectronics
+- Nanomedicine
+- Nanophotonics
+
+### 6.13 Bioethics
+- Medical Ethics
+- Research Ethics
+- Biomedical Ethics
+- Environmental Ethics
+
+### 6.14 Complexity Science
+- Complex Systems
+- Network Science
+- Emergence
+- Self-Organization
+
+### 6.15 Sustainability Science
+- Sustainable Development
+- Circular Economy
+- Renewable Energy
+- Climate Adaptation
+
+### 6.16 Digital Humanities
+- Text Mining
+- Digital Archives
+- Computational Linguistics
+- Network Analysis in Humanities
+- Digital Publishing
+
+### 6.17 Genomics and Personalized Medicine
+- Pharmacogenomics
+- Gene Therapy
+- Precision Medicine
+- Genetic Counseling
+
+### 6.18 Robotics
+- Autonomous Systems
+- Human-Robot Interaction
+- Swarm Robotics
+- Medical Robotics
+
+### 6.19 Quantum Information Science
+- Quantum Computing
+- Quantum Cryptography
+- Quantum Communication
+- Quantum Sensing
+
+### 6.20 Astrobiology
+- Exoplanet Studies
+- Biosignatures
+- Origin of Life
+- Extremophile Biology
